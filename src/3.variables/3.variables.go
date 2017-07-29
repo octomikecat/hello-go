@@ -1,5 +1,7 @@
 package main
 import "fmt"
+
+//this is octomikecat add comment.
 func main(){
 
 	var a string = "initial"
